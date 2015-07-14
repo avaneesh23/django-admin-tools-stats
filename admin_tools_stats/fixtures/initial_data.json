@@ -6,20 +6,20 @@
          "criteria_fix_mapping":{
             "is_active":"1"
          },
-         "updated_date":"2011-09-01 09:06:12",
+         "updated_date":"2015-07-14T01:45:00.894Z",
          "criteria_name":"status",
 	 "dynamic_criteria_field_name":"",
          "criteria_dynamic_mapping":{
 
          },
-         "created_date":"2011-09-01 09:01:40"
+         "created_date":"2015-07-14T01:44:35.904Z"
       }
    },
    {
       "pk":1,
       "model":"admin_tools_stats.dashboardstats",
       "fields":{
-         "updated_date":"2011-09-01 09:11:56",
+         "updated_date":"2015-07-14T00:56:27.404Z",
          "is_visible":true,
          "graph_key":"user_graph",
 	      "graph_title":"User graph",
@@ -30,7 +30,7 @@
          "operation_field_name":"",
          "type_operation_field_name":"",
          "model_name":"User",
-         "created_date":"2011-09-01 08:56:45",
+         "created_date":"2015-07-14T00:56:18.701Z",
          "model_app_name":"auth"
       }
    }
